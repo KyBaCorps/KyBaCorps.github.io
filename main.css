@@ -1,0 +1,41 @@
+img {
+	float:left;
+}
+
+.nav {
+	background:#ffffe6;
+	text-align:right;
+	height:50px;
+} 
+
+a {
+	padding:10px;
+	background:black;
+	color:#ffffe6;
+	border-radius:5px;
+	text-decoration:none;
+	vertical-align:-23px;
+}
+
+a:hover {
+	text-decoration:none;
+    	color: #4fbbc9;
+}
+
+body {
+	margin:0;
+	background-color:powderblue;
+	text-align:center;
+} 
+
+.content {
+	color:#ffffe6;
+}
+
+ul {
+	border-radius:5px;
+	width: 250px;
+	margin: auto;
+	text-align: left;
+	border: 2px solid #ffffe6;
+}
